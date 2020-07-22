@@ -1,3 +1,5 @@
+![CI](https://github.com/xaviergonzalez/OxRSE_course/workflows/CI/badge.svg)
+
 ![Python 3.6-3.8](https://github.com/xaviergonzalez/OxRSE_course/workflows/Python%203.6-3.8/badge.svg)
 
 # OxRSE Continuous Integration course
