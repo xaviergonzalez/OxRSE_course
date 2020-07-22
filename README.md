@@ -1,4 +1,5 @@
 ![Windows macOS and Linux](https://github.com/xaviergonzalez/OxRSE_course/workflows/Windows%20macOS%20and%20Linux/badge.svg)
+
 ![Python 3.6-3.8](https://github.com/xaviergonzalez/OxRSE_course/workflows/Python%203.6-3.8/badge.svg)
 
 # OxRSE Continuous Integration course
