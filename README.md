@@ -1,4 +1,4 @@
-![Python package](https://github.com/xaviergonzalez/OxRSE_course/workflows/Python%20package/badge.svg)
+![Python 3.6-3.8](https://github.com/xaviergonzalez/OxRSE_course/workflows/Python%20package/badge.svg)
 
 # OxRSE Continuous Integration course
 
